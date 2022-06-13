@@ -4,4 +4,4 @@ This repo contains a short MATLAB code for parachute calculation for UAVs. The v
 
 ![rktvrecv](https://user-images.githubusercontent.com/86928434/169917344-79758aa3-94f6-41c3-9613-ca5b7268a4b1.gif)
 
-The MATLAB code is named parachute.m
+The MATLAB code is named **parachute.m**
